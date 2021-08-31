@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nived&#39;s webpage</title>
-    <link>https://example.com/</link>
+    <link>https://nivedwho.github.io/</link>
     <description>Recent content on Nived&#39;s webpage</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://nivedwho.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://nivedwho.github.io/about/</link>
       <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://nivedwho.github.io/about/</guid>
       <description>Hello, my name is Nived P A. I&amp;rsquo;m a junior at Amrita Vishwa Vidyapeetham majoring in Computer Science and Engineering with specialization in Artificial Intelligence. My main interests lie in the field of Computer Vision, Machine Learning and Data Science. My knowledge in these fields comes from a number of academic courses I have taken, online courses, kaggle competitions, a summer school and numerous personal projects.
 I was a Google Summer of Code Student Developer (May - Aug 2021) for TensorFlow and worked on implementing Generative Adversarial Networks for TensorFlow-GAN library.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/contact/</link>
+      <link>https://nivedwho.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
+      <guid>https://nivedwho.github.io/contact/</guid>
       <description> Send me an Email Connect with me on LinkedIn Find me on GitHub  </description>
     </item>
     
     <item>
       <title>Portfolio</title>
-      <link>https://example.com/portfolio/</link>
+      <link>https://nivedwho.github.io/portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/portfolio/</guid>
+      <guid>https://nivedwho.github.io/portfolio/</guid>
       <description>Experiences&amp;nbsp;¶ Google Summer of Code (May 2021 - August 2021)&amp;nbsp;¶ I was a student developer for TensorFlow organization and worked on a project to improve TF-GAN library. I worked on implementing a super-resolution GAN model named &amp;lsquo;ESRGAN&amp;rsquo; and a text-to-image translation model named ControlGAN. The main aim was to update the library with more recent variants of GANs that have more applications. I also wrote Google Colaboratory tutorial notebooks for end-to-end training of these models that explored various functionalities of TF-GAN.</description>
     </item>
     

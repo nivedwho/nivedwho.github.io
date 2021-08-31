@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://nivedwho.github.io/about/</loc>
     <lastmod>2018-02-13T13:42:49-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/contact/</loc>
+    <loc>https://nivedwho.github.io/contact/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://nivedwho.github.io/categories/</loc>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://nivedwho.github.io/</loc>
   </url><url>
-    <loc>https://example.com/portfolio/</loc>
+    <loc>https://nivedwho.github.io/portfolio/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://nivedwho.github.io/tags/</loc>
   </url>
 </urlset>
