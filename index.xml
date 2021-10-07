@@ -31,7 +31,8 @@ I was a Google Summer of Code Student Developer (May - Aug 2021) for TensorFlow 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nivedwho.github.io/portfolio/</guid>
-      <description>Experiences&amp;nbsp;¶ Google Summer of Code (May 2021 - August 2021)&amp;nbsp;¶ I was a student developer for TensorFlow organization and worked on a project to improve TF-GAN library. I worked on implementing a super-resolution GAN model named &amp;lsquo;ESRGAN&amp;rsquo; and a text-to-image translation model named ControlGAN. The main aim was to update the library with more recent variants of GANs that have more applications. I also wrote Google Colaboratory tutorial notebooks for end-to-end training of these models that explored various functionalities of TF-GAN.</description>
+      <description>Experiences&amp;nbsp;¶ Google Summer of Code (May 2021 - August 2021)&amp;nbsp;¶ Mentors : Margaret Maynard Reid &amp;amp; Joel Shor
+I was a student developer for TensorFlow organization and worked on a project to improve TF-GAN library. I worked on implementing a super-resolution GAN model named &amp;lsquo;ESRGAN&amp;rsquo; and a text-to-image translation model named ControlGAN. The main aim was to update the library with more recent variants of GANs that have more applications.</description>
     </item>
     
   </channel>
