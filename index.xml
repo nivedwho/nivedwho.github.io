@@ -12,27 +12,27 @@
       <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
       <guid>https://nivedwho.github.io/about/</guid>
-      <description>Hello, my name is Nived P A. I&amp;rsquo;m a junior at Amrita Vishwa Vidyapeetham majoring in Computer Science and Engineering with specialization in Artificial Intelligence. My main interests lie in the field of Computer Vision, Machine Learning and Data Science. My knowledge in these fields comes from a number of academic courses I have taken, online courses, kaggle competitions, a summer school and numerous personal projects.
-I was a Google Summer of Code Student Developer (May - Aug 2021) for TensorFlow and worked on implementing Generative Adversarial Networks for TensorFlow-GAN library.</description>
+      <description>I&amp;rsquo;m Nived P A, currently a third year undergraduate at Amrita University majoring in Computer Science and Engineering with specialization in Artificial Intelligence. I&amp;rsquo;m also working as a Machine Learning intern at AfterShoot, a photo culling software tool for photographers. My main interests lie in domains related to Machine Learning and Deep Learning especially in the field of Computer Vision.
+Experiences&amp;nbsp;¶ AfterShoot Inc. (November 2021 - Present)&amp;nbsp;¶ Working on implementing Machine Learning models and algorithms for rating photos based on numerous visual attributes so that photographers can get their best shots instantly and automatically.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Contact</title>
       <link>https://nivedwho.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
       <guid>https://nivedwho.github.io/contact/</guid>
       <description> Send me an Email Connect with me on LinkedIn Find me on GitHub  </description>
     </item>
     
     <item>
-      <title>Portfolio</title>
-      <link>https://nivedwho.github.io/portfolio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Projects</title>
+      <link>https://nivedwho.github.io/projects/</link>
+      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
-      <guid>https://nivedwho.github.io/portfolio/</guid>
-      <description>Experiences&amp;nbsp;¶ Google Summer of Code (May 2021 - August 2021)&amp;nbsp;¶ Mentors : Margaret Maynard Reid &amp;amp; Joel Shor
-I was a student developer for TensorFlow organization and worked on a project to improve TF-GAN library. I worked on implementing a super-resolution GAN model named &amp;lsquo;ESRGAN&amp;rsquo; and a text-to-image translation model named ControlGAN. The main aim was to update the library with more recent variants of GANs that have more applications.</description>
+      <guid>https://nivedwho.github.io/projects/</guid>
+      <description>Academic Projects&amp;nbsp;¶ List of projects I have completed as a part of various courses taken in college.
+  Classification and Diagnosis of COVID-19 from Medical Images (May 2021) Implemented a supervised Convolutional Neural Network for classification of medical images for detecting the presence of Covid/Pneumonia affected lung images. We noticed that the models used for similar purposes at the time only worked with good accuracy on the training datasets, whereas on a different dataset that contained similar CT Scan images the accuracy was reduced to 60-70%.</description>
     </item>
     
   </channel>
